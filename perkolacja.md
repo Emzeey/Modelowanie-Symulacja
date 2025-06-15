@@ -33,13 +33,15 @@ Grid size: N = 6
 $l_{av} = \frac{\sqrt{10}+\sqrt{2}+\sqrt{2}}{10} = 0.599$
 
 ### Średnia masa nieperkolującego agregatu $S_{av}$ (podatność perkolacji)
-$S_av$ = masa wszystkich nieperkolujących agregatów / liczba nieperkolujących agregatów
+$S_{av}$ = masa wszystkich nieperkolujących agregatów / liczba nieperkolujących agregatów
 
 Agregaty o masie 1: 4 sztuki -> 4 * 1 = 4
+
 Agregaty o masie 3: 2 sztuki -> 2 * 3 = 6
+
 Agregaty o masie 5: 1 sztuka -> 1 * 5 = 5
 
 Suma mas: 4 + 6 + 5 = 15
 Liczba agregatów: 4 + 2 + 1 = 7
 
-Średnia masa nieperkolującego agregatu: $S_av$ = 15 / 7 ≈ 2
+Średnia masa nieperkolującego agregatu: $S_{av}$ = 15 / 7 ≈ 2
